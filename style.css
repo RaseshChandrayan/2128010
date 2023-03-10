@@ -1,0 +1,35 @@
+table{
+  width: 100%;
+  height: 60%;
+  border-collapse: collapse;
+  
+}
+
+td,th{
+  border: 1px solid;
+  padding: 10px;
+
+}
+
+tr:nth-child(odd) 
+{
+  background-color: #f1f1f1;
+}
+
+tr:hover {
+  background-color: #CBE4DE;
+}
+
+tr:nth-child(1) 
+{
+  background-color: #9DC08B;
+}
+tr:nth-child(2) 
+{
+  background-color: #EDF1D6;
+}
+
+tr:nth-child(6) 
+{
+  background-color: #9DC08B;
+}
